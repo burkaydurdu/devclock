@@ -1,0 +1,16 @@
+.app {
+  height: 100%;
+  background-color: #000;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.container span {
+  font-size: 160px;
+  color: #FFF;
+}
