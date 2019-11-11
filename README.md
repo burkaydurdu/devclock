@@ -1,3 +1,5 @@
+![Netlify Status](https://api.netlify.com/api/v1/badges/48a8566a-acd4-448e-a364-da8ea3949e04/deploy-status)
+
 # devclock
 
 ## CLI Commands
